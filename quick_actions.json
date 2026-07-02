@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Explorer",
+    "action": "explorer.exe",
+    "type": "exe"
+  },
+  {
+    "name": "Terminal",
+    "action": "cmd.exe",
+    "type": "exe"
+  },
+  {
+    "name": "Task Manager",
+    "action": "taskmgr.exe",
+    "type": "exe"
+  },
+  {
+    "name": "Notepad",
+    "action": "notepad.exe",
+    "type": "exe"
+  }
+]
